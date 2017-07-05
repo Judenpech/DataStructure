@@ -1,6 +1,5 @@
 ![](http://www.fjtcm.edu.cn/r/cms/www/zhuzhan/skin/images/logo.png)
 ***
-# **福建中医药大学**
 ## 人文与管理学院
 ## 2017年春季学期
 
