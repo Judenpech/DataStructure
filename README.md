@@ -12,7 +12,7 @@
 ## 源代码
 主要用C语言实现。
 
-[源代码传送门](https://github.com/jl223vy/DataStructure/tree/master/sourceCode)
+[Source Code](https://github.com/jl223vy/DataStructure/tree/master/sourceCode)
 
 ## 关于我
 福建中医药大学学生。
