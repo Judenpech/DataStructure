@@ -5,18 +5,19 @@
 
 [Data Structure Wiki](https://en.wikipedia.org/wiki/Data_structure)
 
-## 《数据结构》课程实习报告
+### 《数据结构》课程实习报告
+
 此报告为我的《数据结构》课程实习报告，题目为《长整数加减运算》。
 
-[实习报告下载](https://github.com/jl223vy/DataStructure/raw/master/3150707012-%E6%9D%8E%E9%9D%96.doc)
+[Download](https://github.com/jl223vy/DataStructure/raw/master/3150707012-%E6%9D%8E%E9%9D%96.doc)
 
-## 源代码
-
-主要用C语言实现。
+### 源代码
 
 [See Here](https://github.com/jl223vy/DataStructure/tree/master/sourceCode)
 
-## 关于我
+### 关于我
 福建中医药大学学生。
 
 *2017 年 5 月*
+
+-----
