@@ -5,7 +5,7 @@
 
 [Data Structure Wiki](https://en.wikipedia.org/wiki/Data_structure)
 
-### 《数据结构》课程实习报告
+### 实习报告
 
 此报告为我的《数据结构》课程实习报告，题目为《长整数加减运算》。
 
